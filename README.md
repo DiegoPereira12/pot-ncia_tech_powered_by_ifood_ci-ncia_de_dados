@@ -19,5 +19,27 @@
   - 2.7 Criando um Cronograma de Estudos
   - 2.8 Criando o Database de Cursos e Projetos
   - 2.9 Finalizando o Caderno de Estudos
+
+  https://www.notion.so/Caderno-de-Estudos-d1f6b1d3c0a84017b1348a45340fd708
     
-    
+### 3. Versionamento de Código com Git e GitHub
+- 3.1 Introdução ao Curso
+- 3.2 O que Versionamento de Código
+- 3.3 O que é Git
+- 3.4 O que é GitHub
+  
+>> Instalação, Configuração e Autenticação
+
+- 3.5 Instalando o Git no Windows
+- 3.6 Instalando o Git no Linux(Ubuntu)
+- 3.7 Configurando o Git
+- 3.8 Autentincando via Token
+- 3.9 Autenticando Via Chave SSH
+
+>> Primeiro Passos com o Git e GitHub
+
+- 3.10 Criando e Clonando Repositórios
+- 3.11 Salvando Alterações no Repositório Local
+- 3.12 Desfazendo Alterações com o Repositório Remoto
+- 3.13 Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
+- 3.14 Trabalhando com Branches - Comando Úteis no dia dia
