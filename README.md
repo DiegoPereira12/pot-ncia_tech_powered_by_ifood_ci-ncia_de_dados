@@ -43,3 +43,11 @@
 - 3.12 Desfazendo Alterações com o Repositório Remoto
 - 3.13 Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
 - 3.14 Trabalhando com Branches - Comando Úteis no dia dia
+
+### 4. Contribuindo em um Projeto Open Source no GitHub
+
+- Formas de Contribuir num Projeto Open Source
+- Desenvolvendo uma Contribuição
+- Enviando uma Contribuição
+- Dicas e Materias de Apoio
+- Entendendo o Desafio
