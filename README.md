@@ -59,7 +59,7 @@
 - Tipos de Operadores com Python
 - Estruturas Condicionais e de Repetição em Python
 - Manipulando Strings com Python
-- Criando um Sistema Bancário com Python
+  <li><a href = "https://github.com/DiegoPereira12/potencia_tech_powered_by_ifood_ciencia_de_dados/tree/main/Dominando%20o%20Python%20Para%20Ci%C3%AAncia%20de%20Dados/Criando%20um%20Sistema%20Banc%C3%A1rio%20com%20Python">Criando um Sistema Bancário com Python </a></li>
 - Trabalhando com Listas em Python
 - Conhecendo Tuplas em Python
 - Explorando Conjuntos em Python
