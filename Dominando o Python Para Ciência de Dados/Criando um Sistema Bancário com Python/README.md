@@ -6,7 +6,7 @@ Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse 
 
 ### Operação de depósito
 
-Deve ser possível despoistar valores positivos para  aminha conta bancária. A v1 do projeto trabalha apenas com 1 usuário, dessa forma não precisamos nos preocupar em identificar qual é o número da agéncia e conta bancária. Todos os depósitos devem ser armazenados em uma variável e exibidos na operação de extrato.
+Deve ser possível depositar valores positivos para  aminha conta bancária. A v1 do projeto trabalha apenas com 1 usuário, dessa forma não precisamos nos preocupar em identificar qual é o número da agéncia e conta bancária. Todos os depósitos devem ser armazenados em uma variável e exibidos na operação de extrato.
 
 ### Operação de extrato
 
