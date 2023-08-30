@@ -10,7 +10,7 @@ def menu():
     [lc]\tListar contas
     [nu]\tNovo usuário
     [q]\tSair
-    =>"""
+    =>  """
     return input(textwrap.dedent(menu))
 
 def depositar(saldo, valor, extrato, /):
@@ -54,7 +54,7 @@ def exibir_extrato(saldo, /, *, extrato):
     print(f'\nSaldo: R$ {saldo:.2f}')
     print('====================================================')
 
-def criar_usuario(cpf, usuarios):
+def criar_usuario(usuarios):
     cpf = input('Informe o CPF (somente número): ')
     usuario = filtrar_usuario(cpf, usuarios)
 
@@ -75,7 +75,7 @@ def filtrar_usuario(cpf, usuarios):
     return usuarios_filtrados[0] if usuarios_filtrados else None
 
 def criar_conta(agencia, numero_conta, usuarios):
-    cpf = input('informe o CPF do usuário')
+    cpf = input('informe o CPF do usuário: ')
     usuario = filtrar_usuario(cpf, usuarios)
 
     if usuario:
@@ -85,7 +85,14 @@ def criar_conta(agencia, numero_conta, usuarios):
     print('\n@@@ Usuário não encontrado, fluxo de criação de contra encerrado @@@')
 
 def listar_contas(contas):
-    pass
+    for conta in contas:
+        linha = f'''\
+            Agência:\t{conta['agencia']}
+            C/C:\t\t{conta['numero_conta']}
+            Titular:\t{conta['usuario']['nome']}
+        '''
+        print('=' * 100)
+        print(textwrap.dedent(linha))
 
 def main():
     LIMITE_SAQUES = 3
@@ -138,6 +145,5 @@ def main():
 
         else:
             print('Operação inválida, por favor selecione novamente a operação desejada')
-
 
 main()
