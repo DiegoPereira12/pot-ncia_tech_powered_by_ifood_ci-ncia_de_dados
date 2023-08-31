@@ -66,3 +66,11 @@
 - Aprendendo a Utilizar Dicionários em Python
 - Dominando Funções Python
 - Otimizando o Sistema Bancário com Funções Python
+
+### 6. Desafios de Código em Python
+
+- Tempo estimado de Entrega
+- Calcular o Preço Final de um Pedido
+- Ganhe uma Sobremessa Especial
+- Gerenciamento de Pedidos de Comida
+- Identificando Pedidos Veganos
