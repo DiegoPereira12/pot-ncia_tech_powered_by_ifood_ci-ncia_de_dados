@@ -65,7 +65,7 @@
 - Explorando Conjuntos em Python
 - Aprendendo a Utilizar Dicionários em Python
 - Dominando Funções Python
-- Otimizando o Sistema Bancário com Funções Python
+- <i><a href = "https://github.com/DiegoPereira12/potencia_tech_powered_by_ifood_ciencia_de_dados/tree/main/Dominando%20o%20Python%20Para%20Ci%C3%AAncia%20de%20Dados/Otimizando%20o%20Sistema%20Banc%C3%A1rio">Otimizando o Sistema Bancário com Funções Python </a></li>
 
 ### 6. Desafios de Código em Python
 
