@@ -74,3 +74,8 @@
 - Ganhe uma Sobremessa Especial
 - Gerenciamento de Pedidos de Comida
 - Identificando Pedidos Veganos
+
+### 7. Modelagem de Dados e Projetos Lógicos na Prática com SQL
+>> Introdução a Banco de Dados
+- Visão Geral da Formação SQL Database Specialist
+- 
