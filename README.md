@@ -75,7 +75,14 @@
 - Gerenciamento de Pedidos de Comida
 - Identificando Pedidos Veganos
 
-### 7. Modelagem de Dados e Projetos Lógicos na Prática com SQL
->> Introdução a Banco de Dados
-- Visão Geral da Formação SQL Database Specialist
-- 
+### 7. Fundamentos e Técnicas de Machine Learnig
+- Fundamentos de ETL (Extract, Transform, Load) com Python
+>> Introdução ao Machine Learning
+- Métodos de Machine Learning e suas aplicações
+- Machine Learning e suas aplicações
+- Modelos Machine Learning para Visão Computacional
+  
+>> Métodos de Machine Learning Bioinspirados
+
+- Redes Naturais Artificiais
+- Avalie este Bootcamp
