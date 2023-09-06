@@ -83,6 +83,5 @@
 - Modelos Machine Learning para Visão Computacional
   
 >> Métodos de Machine Learning Bioinspirados
-
-- Redes Naturais Artificiais
-- Avalie este Bootcamp
+- Métodos de Machine Learning bioinspirados
+- Algorotmos Heuristicos x Determeninados
